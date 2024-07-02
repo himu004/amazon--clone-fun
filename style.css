@@ -207,11 +207,10 @@ span {
 }
 
 .shop-add {
-    width: 95%;
+    width: 100%;
     background-color: #fff;
-    margin: 0 auto;
-    margin: 20px;
     border-radius: 3px;
+    margin: 20px 30px;
 }
 
 .shop-add p{
@@ -221,14 +220,14 @@ span {
 }
 
 .shop-add-img{
-    width: 100%;
     display: flex;
     justify-content: center;
+    margin: 25px
 }
 
 .img-tow{
-    width: 180px;
-    margin: 15px 90px;
+    width: 170px;
+    margin: 0px 25px;
     border-radius: 3px;
 }
 
