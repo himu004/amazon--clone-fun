@@ -258,6 +258,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-top: 1px solid #3A4553;
 }
 
 hr{
@@ -285,3 +286,25 @@ li:hover{
     text-decoration: underline;
 }
 
+.country{
+    color: #fff;
+    margin-left: 20px;
+    display: flex;
+    gap: 1rem;
+}
+
+.bd{
+    height: 15px;
+    margin: 0px 8px;
+}
+
+.inner-divs{
+    display: flex;
+    border: 1px solid #fff;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.inner-divs i{
+    margin: 0px 8px;
+}
