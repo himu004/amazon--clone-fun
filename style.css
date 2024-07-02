@@ -259,13 +259,9 @@ span {
     justify-content: center;
     align-items: center;
     border-top: 1px solid #3A4553;
+    padding: 15px 0px;
 }
 
-hr{
-    color: #fff;
-    height: 0.5px;
-    margin: 0px 20px; 
-}
 
 .f-content{
     padding: 50px 100px;
@@ -275,7 +271,8 @@ hr{
 }
 
 .f-content p{
-    font-weight: 800;
+    font-weight: bold;
+    font-size: 1em;
 }
 
 li {
@@ -284,6 +281,7 @@ li {
 }
 li:hover{
     text-decoration: underline;
+    cursor: pointer;
 }
 
 .country{
